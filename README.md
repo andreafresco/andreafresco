@@ -1,4 +1,4 @@
-<img src=”https://www.linkedin.com/in/andrea-fresco-4079a3147/detail/background-image/" alt=”my banner”>
+<img src=”https://uploads6.wikiart.org/images/henri-matisse/la-gerbe-1953.jpg" alt=”my banner”>
                                                                                                                
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">A passionate Biomedical Engineer from Italy</h3>
