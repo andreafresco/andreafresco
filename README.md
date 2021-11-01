@@ -1,5 +1,7 @@
+<p align="center">
 <img src=”https://uploads6.wikiart.org/images/henri-matisse/la-gerbe-1953.jpg" alt=”my banner”>
-                                                                                                               
+</p>
+                                                                                                              
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">A passionate Biomedical Engineer from Italy</h3>
 
